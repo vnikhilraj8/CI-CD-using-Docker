@@ -1,2 +1,1 @@
-
-sudo docker push yedukondalu212/samplejavaapp:latest
+sudo docker push hemasahur/samplejavaapp:latest
