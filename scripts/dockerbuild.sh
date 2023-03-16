@@ -1,2 +1,1 @@
-sudo docker build -t samplewebapp .
-sudo docker tag samplewebapp hemasahur/samplejavaapp:latest
+sudo docker build -t hemasahur/samplejavaapp:latest .
